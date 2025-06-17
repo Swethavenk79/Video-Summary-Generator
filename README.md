@@ -4,7 +4,7 @@ A powerful Streamlit web app that allows users to upload MP4 video files, automa
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Audio Transcription** – Converts speech to text using Whisper
 - **Text Summarization** – Condenses transcripts with BART (HuggingFace)
